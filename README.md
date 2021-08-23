@@ -1,1 +1,1 @@
-<img src="descarga(2).jpg" alt="Kenma"/>
+<img src="Besto colocador.jpg" alt="Kenma"/>
